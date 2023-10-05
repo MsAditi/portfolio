@@ -138,6 +138,11 @@ border-radius: 30px;
     justify-content: space-around;
 
 }
+#cl{
+    text-decoration: none;
+    color:white;
+
+}
 .about-text h2{
     color:white;
     font-size: 75px;
