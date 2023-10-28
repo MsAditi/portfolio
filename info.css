@@ -338,8 +338,33 @@ footer p:nth-child(2)
     font-size:14px ;
 
 }
+.Csec1{
+    width: 1600px;
+height: 800px;
+flex-shrink: 0;
 
-
-
-
-
+    background-color:black;
+    
+}
+/* CSS of contact us */
+ input {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+  }
+  .h {
+    color:black;
+    font-family: Inter;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px; /* 121.739% */
+    letter-spacing: -1.38px;
+    text-transform: capitalize;
+  }
+  .flexaside{
+    margin-left:700px;
+    display: flex;
+    direction: row;
+    gap:3px;
+  }
